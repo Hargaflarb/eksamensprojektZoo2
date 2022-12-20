@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.topMenu
+{
+	border-width:3px, solid black;
+	width:80%;
+	background-color: sandybrown;
+	text-align: center;
+	color:black;
+	margin-left:10%;
+}
+
+.topmenu, td
+{
+	width:18%;
+}
+
+.topmenu, img
+{
+	float:center;
+}
+
+.outsideTextbox
+{
+	width:100%;
+	color: black;
+	background-color: white;
+	text-align: center;
+}
