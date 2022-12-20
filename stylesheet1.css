@@ -1,5 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
+
+body{
+	background-image: url("background.jpg")
+}
 .topMenu
 {
 	border-width:3px, solid black;
