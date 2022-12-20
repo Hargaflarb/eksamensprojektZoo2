@@ -31,3 +31,21 @@ body{
 	background-color: white;
 	text-align: center;
 }
+
+.besogOptions
+{
+	display:none;
+}
+
+.besog:hover + .besogOptions
+{
+	display:block;
+	color: black;
+}
+
+.besogOptions, table
+{
+	background-color: white;
+	margin-left: 10%;
+	width: 15%;
+}
