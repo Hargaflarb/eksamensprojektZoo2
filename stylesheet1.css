@@ -47,6 +47,15 @@ body{
 	margin-top: 2%;
 }
 
+.banner2
+{
+	margin-left:10%;
+	background-image: url("pettingZoo2.jpg");
+	width:80%;
+	margin-top: 2%;
+	height: 300px;
+}
+
 .clearview
 {
 	padding-left: 5%;
@@ -93,7 +102,6 @@ body{
 	background-color:antiquewhite;
 	padding: 4%;
 	margin-bottom:4%;
-	
 }
 
 .clearView2
@@ -116,10 +124,31 @@ body{
 	margin-top:170px;
 }
 
+.subBox4
+{
+	margin-left:20%;
+	background-color:antiquewhite;
+	padding: 4%;
+	margin-bottom:4%;
+	width: 80%;
+	height: 500px;
+}
+
 .feed
 {
 	width:50%;
 	margin-left:30%;
+}
+
+.other
+{
+	width:70%;
+	height: 250px;
+	margin-left:10%;
+	background-image: url("aardvark.jpg");
+	margin-bottom: 20px;
+	text-align: center;
+	color: white;
 }
 
 .endOfPage
