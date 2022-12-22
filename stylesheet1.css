@@ -6,7 +6,6 @@ body{
 	background-attachment: fixed;
 }
 
-
 .topMenu
 {
 	border-width:3px, solid black;
@@ -20,6 +19,11 @@ body{
 .topmenu, td
 {
 	width:18%;
+}
+
+.option
+{
+	border: solid black;
 }
 
 .topmenu img
