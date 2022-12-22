@@ -3,8 +3,10 @@
 
 body{
 	background-image: url("background.jpg");
-	background-position: fixed;
+	background-attachment: fixed;
 }
+
+
 .topMenu
 {
 	border-width:3px, solid black;
@@ -57,11 +59,11 @@ body{
 
 .subBox1
 {
-	width:20%;
-	margin-left:10%;
+	width:50%;
+	margin-left:20%;
 	background-color:antiquewhite;
-	padding: 2%;
-	margin-bottom:2%;
+	padding: 4%;
+	margin-bottom:4%;
 }
 
 .button
@@ -71,6 +73,12 @@ body{
 	margin-left:20%;
 	margin-right: 20%;
 	text-align: center;
+}
+
+.feed
+{
+	width:50%;
+	margin-left:30%;
 }
 
 .endOfPage
